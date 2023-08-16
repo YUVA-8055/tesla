@@ -1,6 +1,6 @@
 # Tesla Flutter App
 
-![Tesla App Logo](teslaa.png) 
+![Tesla App Logo](assets/images/teslaa.png) 
 
 Tesla is a sleek and interactive Flutter app designed to showcase the capabilities of Flutter for building stunning UIs and animations. With its captivating design and smooth animations, Tesla App sets out to provide a seamless user experience that reflects the innovation and elegance associated with the Tesla brand.
 
